@@ -11,7 +11,7 @@ Passionate about **Full-Stack Development** 💻
 ---
 
 ### 🌟 About Me  
-- 🌱 **Currently Learning**: Advanced Web Development and Flask  
+- 🌱 **Currently Learning**: Advanced Web Development 
 - 🤝 **Collaboration Goals**: Building innovative and impactful projects  
 - 💬 **Ask Me About**: Web Development, Python, and Design Systems  
 - 🎯 **Fun Fact**: I enjoy exploring frameworks and designing workflows  
@@ -36,8 +36,7 @@ Passionate about **Full-Stack Development** 💻
  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" />  
  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" />  
  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />  
- <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />  
- <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" />  
+ <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />   
  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" />  
 </p>  
 
@@ -47,8 +46,8 @@ Passionate about **Full-Stack Development** 💻
 - **Editor:** Visual Studio Code  
 - **Libraries & Frameworks:** Flask, Tailwind CSS, Bootstrap  
 - **Workspace Setup:**  
-  - Laptop: **HP Vitus 16**  
-  - Processor: **Intel Core i7**  
+  - Laptop: **HP Vitus 15**  
+  - Processor: **Intel Core i5**  
   - Graphics: **NVIDIA GeForce 2050**  
   - RAM: **16GB**  
 
