@@ -44,7 +44,7 @@ Passionate about **Full-Stack Development** 💻
 
 ### 🧰 Tools I Use  
 - **Editor:** Visual Studio Code  
-- **Libraries & Frameworks:** Flask, Tailwind CSS, Bootstrap  
+- **Libraries & Frameworks:** Bootstrap  
 - **Workspace Setup:**  
   - Laptop: **HP Vitus 15**  
   - Processor: **Intel Core i5 13420H**  
