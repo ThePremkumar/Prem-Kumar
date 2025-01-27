@@ -47,7 +47,7 @@ Passionate about **Full-Stack Development** 💻
 - **Libraries & Frameworks:** Flask, Tailwind CSS, Bootstrap  
 - **Workspace Setup:**  
   - Laptop: **HP Vitus 15**  
-  - Processor: **Intel Core i5**  
+  - Processor: **Intel Core i5 13420H**  
   - Graphics: **NVIDIA GeForce 2050**  
   - RAM: **16GB**  
 
